@@ -1,0 +1,7 @@
+[api]
+port = "7879"
+
+[database]
+host = "localhost"
+port = "6379"
+password = ""
